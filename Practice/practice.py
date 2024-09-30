@@ -20,7 +20,7 @@
 # hello = hi= bye = goodbye = 30
 
 
-song = "hello from the other side"
+# song = "hello from the other side"
 # print(len(song)) - რამდენი ასოსგან შედგება
 
 # print(song.find("s")) - კონკრეტული ასოს პოვნა
@@ -28,12 +28,14 @@ song = "hello from the other side"
 
 # print(song.upper()) - მთლიანი წინადადების Capital letter-ით დაწერა
 
-song2 = "HELLO FROM THE OTHER SIDE"
+# song2 = "HELLO FROM THE OTHER SIDE"
 
 # print(song2.lower()) - მთლიანი წინადადების დაბალი ასოთი დაწერა
 
 # print(song.count("l")) - წინადადებაში კონკრეტული ასოს რაოდენობის გაგება
 # print(song.replace("l", "L")) - რომელიმე ასოს სხვათი ჩანაცვლება
-# print(song*2, song2*3) - რამოდენიმეჯერ გამეორება
+# # print(song*2, song2*3) - რამოდენიმეჯერ გამეორება
 
-print("my favorite part of song is" + " " + song + ".")
+# print("my favorite part of song is" + " " + song + ".")
+age = input("შეიტანეთ თქვენი დაბადების წელი: ")
+print("თქვენი ასაკია: ", int(2024) - int(age))
