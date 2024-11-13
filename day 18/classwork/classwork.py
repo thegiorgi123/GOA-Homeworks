@@ -27,5 +27,5 @@
 
 
 
-arr = [goal]
-print(arr[::-1])
+arr = ["goal", "hello", "hi", "aa", "bb", "cc"]
+print(arr[0:5:2])
