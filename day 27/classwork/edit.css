@@ -1,0 +1,53 @@
+#par1{
+    background-color: #b6ba2c
+}
+
+.par2{
+    font-size: 50px;
+    color: hsl(0,100%,100%, .5)
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+/* h1{
+    color: firebrick; */
+/* }
+.heading{  
+    color: blue;
+} */
+/* 
+#h11 {
+    color: purple;
+}
+
+.my-color { */
+    
+    /* background-color: hsl(12%, 47%, 15%); */
+
+    /* hsl - განსაზღვრავს ბექგრაუნდის ფერებს */
+    /* color: rgb(53, 154, 146); */
+    /* rgb - ტექსტის ფერს */
+/* 
+    border: hsl(0, 90%, 48%, 0.4); */
+
+    /* hsl არის border-ებში, A-F
+}
+
+#par1{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(134, 59, 12);
+}
+
+h1 {
+    color: red;
+}
+
+.caribian1 {
+    text-align: Center;
+}
+
+.caribianp1 {
+    color: yellow;
+    font-size: 20px;
+}
+
+.caribianp2 {
+    color: rgb(255, 2, 242);
+    font-size: 20px;
+}
+
+.div2 {
+    text-align: right;
+}
+
+.name2 {
+    color: Red;
+}
+
+.div3a {
+    text-align: left;
+}
+
+.paragraph1 {
+    color: Yellow;
+    font-size: 20px;
+}
+
+.name3 {
+    color: Purple;
+}
