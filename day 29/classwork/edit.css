@@ -1,0 +1,14 @@
+body {
+        font-family: "Agu Display", cursive; 
+        /* ფონტ ფემილის სახელის შეცვლით იცვლება ფონტები */
+        font-weight: 300;
+        /* weight-ი ზომას უცვლის */
+        font-style: normal;
+      
+}
+
+.ubuntu-class{
+    font-family: "Playwrite DE VA Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+}

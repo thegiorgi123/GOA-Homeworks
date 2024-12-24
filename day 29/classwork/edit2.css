@@ -1,0 +1,16 @@
+body {
+    font-family: "Playwrite DE VA Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: Purple;
+}
+h1 {
+    color: Red;
+    text-align: center;
+}
+
+.second_part{
+    font-family: "Agu Display", cursive;
+    font-weight: 400;
+    font-style: normal;
+}

@@ -1,0 +1,17 @@
+html {
+    background-color: #000000;  
+}
+h1 {
+    color: rgb(4, 4, 255);
+    text-align: center;
+}
+
+#p1{
+    color: hsl(0, 0%, 100%);
+    font-size: x-large;
+}
+
+#p2{
+    color: hsl(0, 0%, 100%);
+    font-size: x-large;
+}

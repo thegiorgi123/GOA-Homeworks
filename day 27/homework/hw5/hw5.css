@@ -1,0 +1,17 @@
+html {
+    background-color: #3311f1;  
+}
+h1 {
+    text-align: center;
+    color: #ff0000d3;
+}
+
+#p1{
+    color: hsla(105, 85%, 29%, 0.86);
+    font-size: x-Large;
+}
+
+#p2{
+    color: hsla(114, 87%, 24%, 0.94);
+    font-size: x-large;
+}
