@@ -68,8 +68,26 @@
 # print("login succesfully!")
 
 
-super_number = input("please enter super number: ")
-number = "151"
-while super_number != number:
-    super_number = input("Please, try again!: ")
-print("super number is succesful!")
+# super_number = input("please enter super number: ")
+# number = "151"
+# while super_number != number:
+#     super_number = input("Please, try again!: ")
+# print("super number is succesful!")
+
+
+# if password1 == password2:
+#     print("რეგისტრაცია წარმატებით დასრულდა!")
+# else:
+#     print("პაროლი არასწორია, ცადეთ თავიდან!")
+
+
+# password1 = input("შექმენით პაროლი!:      ")
+# password2 = input("გაიმეორეთ თქვენი პაროლი!:      ")
+
+# while password1 != password2:
+#     password2 = input("პაროლი არასწორია, ცადეთ თავიდან!")
+# print("რეგისტრაცია წარმატებით დასრულდა!")
+
+
+
+
